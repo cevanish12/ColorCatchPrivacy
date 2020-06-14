@@ -1,2 +1,3 @@
-# ColorCatchPrivacy
-The privacy policy for ColorCatch.
+# ColorCatch Privacy Policy
+
+ColorCatch does not store any personally identifiable information. ColorCatch uses [Firebase Crashlytics](https://firebase.google.com/products/crashlytics?gclid=CjwKCAjwlZf3BRABEiwA8Q0qqz2u0884QO7k-w6ahZPJ5Ecjhv6gRpfmLHnYIO-kcCGk55KU2CHg3RoC2ekQAvD_BwE) and [Firebase Analytics](https://firebase.google.com/products/analytics?gclid=CjwKCAjwlZf3BRABEiwA8Q0qq7hVSNp2z146T1hEMr1zo3CKGgP5mIT7umblrqUlWWzJDrwhr26ZVhoCgKQQAvD_BwE) to investigate crashes in the app and to collect analytics, respectively. The privacy policy of Firebase can be found [here](https://firebase.google.com/support/privacy).
